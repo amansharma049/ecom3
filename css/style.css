@@ -337,7 +337,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/img/banner/b17.jpg);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b17.jpg?raw=true);
     width: 580px;
     height: 50vh;
     background-size: cover;
@@ -346,7 +346,7 @@ body{
 }
 
 #sm-banner .banner-box2{
-    background-image: url(/img/banner/b10.jpg);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b10.jpg?raw=true);
 }
 
 #sm-banner h4{
@@ -383,7 +383,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(/img/banner/b7.jpg);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b7.jpg?raw=true);
     width: 30%;
     height: 30vh;
     background-size: cover;
@@ -405,10 +405,10 @@ body{
 }
 
 #banner3 .banner-box2{
-    background-image: url(/img/banner/b4.jpg);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b4.jpg?raw=true);
 }
 #banner3 .banner-box3{
-    background-image: url(/img/banner/b18.jpg);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b18.jpg?raw=true);
 }
 
 #newsletter{
@@ -416,7 +416,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(/img/banner/b14.png);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b14.png?raw=true);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #041e42;
@@ -550,7 +550,7 @@ footer a:hover{
     padding: 14px;
 }
 #page-header.hero1{
-    background-image: url("/img/banner/b1.jpg");
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b1.jpg?raw=true);
 }
 
 #page-header h2,
@@ -644,7 +644,7 @@ padding: 40px 0 20px 0;
 /* blob page */
 
 #page-header.blog-header{
-    background-image: url("/img/banner/b19.jpg");
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/banner/b19.jpg?raw=true);
     
 }
 
@@ -713,7 +713,7 @@ padding: 40px 0 20px 0;
 /* About page */
 
 #page-header.about-header{
-    background-image: url(/img/about/banner.png);
+    background-image: url(https://github.com/amansharma049/ecom3/blob/main/img/about/banner.png?raw=true);
 
 }
 
