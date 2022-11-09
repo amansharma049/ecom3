@@ -878,12 +878,12 @@ padding: 40px 0 20px 0;
 #cart table td:nth-child(6){
     width: 150%;
     text-align: center;
-}
+}*/
 
 #cart table td:nth-child(5) input{
     width: 70px;
     padding: 10px 5px 10px 15px;
-}*/
+}
 
 #cart table thead{
     border: 1px solid #e2e9e1;
